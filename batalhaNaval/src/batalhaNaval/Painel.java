@@ -19,7 +19,7 @@ public class Painel {
 		// elementos
 		char[][] tabuleiro = new char[8][9];
 		char[][] jogadas = new char[8][9];
-		int quantBomb = 10, quantBarc = 15;
+		int quantBomb = 8, quantBarc = 15;
 		int quantJog = 24;
 
 		// *** inicio ***
